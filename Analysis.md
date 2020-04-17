@@ -27,6 +27,18 @@ Once again, I have used trip duration in minutes. This visualization shows that 
 
 
 **Visualization 3**
-![Trip Duration vs Gender](Images/3-Avg-Trip-Duration-Birth-Year-w-Gender.png)
+![Average Trip Duration Birth Year with Gender](Images/3-Avg-Trip-Duration-Birth-Year-w-Gender.png)
 
-This bar graph shows the average trip duration in minutes for each age group. Additionally, I added another element to it showing average trip duration traveled with the gender included. Something I found quirky about this graph was that highest average trip traveled was females born in 1905. The females' ages are 115 years old and I believe that the group are most likely lying about their age.
+This stacked bar graph shows the average trip duration in minutes for each age group. Additionally, I added another element to it showing average trip duration traveled with the gender included. Something I found quirky about this graph was that highest average trip traveled was females born in 1905. The females' ages are 115 years old and I believe that the group are most likely lying about their age.
+
+**Visualization 3 and 4**
+
+![Total Number of Trips by Hour-Dashboard 1](Images/6-Tot-Number-of-Trips-by-Hour-Dashboard-1.png)
+
+This dashboard consists of two visuals. The graphs both show the total number of start and end trips by the hour of the day. As we can see that the most active start and end times are at 8 am and 6 pm, which can be explained by normal commute hours. 
+
+**Visualization 5 and 6**
+
+![City Official Map Geomap](Images/8-City-Official-Map-Geomap.png)
+
+This geomap dashboard shows the most popular start and end locations using the count of station ids. As we can see grove street is the most popular start and end location.
