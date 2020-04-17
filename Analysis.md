@@ -20,6 +20,12 @@ Looking at the Citi Bike website [New York Citi Bike Website](https://www.citibi
 
 By default, trip duration from the start location to end location is given in seconds. However, I created a calculated measure of the trip duration in minutes. This bar graph compares the Trip Duration to the given age group. In the year 2019, the age group of 30 to 48 have the longest trip duration with over 2 million minutes traveled. The second group with the largest trip duration is from ages 49 to 73.
 
-**Visualization 1**
+**Visualization 2**
 ![Trip Duration vs Gender](Images/2-Trip-Duration-by-Gender-2019.png)
+
+Once again, I have used trip duration in minutes. This visualization shows that the largest proportion of the sum total of trip duration are males. Therefore, males are using the bikes the most to travel.
+
+
+**Visualization 3**
+![Trip Duration vs Gender](Images/3-Avg-Trip-Duration-Birth-Year-w-Gender.png)
 
