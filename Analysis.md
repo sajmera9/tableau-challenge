@@ -29,3 +29,4 @@ Once again, I have used trip duration in minutes. This visualization shows that 
 **Visualization 3**
 ![Trip Duration vs Gender](Images/3-Avg-Trip-Duration-Birth-Year-w-Gender.png)
 
+This bar graph shows the average trip duration in minutes for each age group. Additionally, I added another element to it showing average trip duration traveled with the gender included. Something I found quirky about this graph was that highest average trip traveled was females born in 1905. The females' ages are 115 years old and I believe that the group are most likely lying about their age.
