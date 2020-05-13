@@ -1,10 +1,7 @@
 # tableau-challenge - Citi Bike Analytics
-
-[Tableau Public Profile Project Link](https://public.tableau.com/profile/satvik.ajmera#!/vizhome/citi-bikes-challenge/CitiBikeStory?publish=yes)
-
-
 ![Citi-Bikes](Images/citi-bike-station-bikes.jpg)
 
+[Tableau Public Profile Project Link](https://public.tableau.com/profile/satvik.ajmera#!/vizhome/citi-bikes-challenge/CitiBikeStory?publish=yes)
 
 
 
